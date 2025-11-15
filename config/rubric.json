@@ -1,0 +1,32 @@
+{
+  "Stadium_Type": {
+    "dome": 100,
+    "retractable roof": 100,
+    "retractable": 100,
+    "open-air": 50,
+    "indoor": 80,
+    "default": 50
+  },
+  "Stadium_leed_cert": {
+    "platinum": 100,
+    "gold": 80,
+    "silver": 60,
+    "certified": 50,
+    "none": 30,
+    "default": 30
+  },
+  "Waste_Management": {
+    "extensive recycling and composting": 100,
+    "recycling and composting": 90,
+    "recycling only": 70,
+    "minimal": 30,
+    "no_program": 10,
+    "default": 50
+  },
+  "Future_Developments": {
+    "major_green_investments": 100,
+    "planned_green_projects": 80,
+    "no_known_plans": 30,
+    "default": 50
+  }
+}

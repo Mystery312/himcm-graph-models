@@ -1,0 +1,4 @@
+City,State,Times_Hosted,Last_Hosted_Year,Stadium_Name,Stadium_Type,Avg_Feb_Temp_F,Alltransit_Score,Renewable_Energy_Pct,Waste_Diversion_Pct,Green_Legacy_Projects,Carbon_Offset_Programs,Stadium_leed_cert,Water_Score,Air_ug_m3,Carbon_Emissions,Env_Conditions,Raw_Score,Sustainability_Z,Sustainability_Z_Scaled
+Alpha,A,1,2010,Alpha Stadium,Dome,45,80,60,50,2,1,Gold,70,12,2.5,68.63,62.699,0.1504501882291003,51.504501882291
+Beta,B,0,0,Beta Field,Open,55,60,20,30,0,0,Certified,50,25,5.0,10.0,7.692,-1.0667005379084806,39.332994620915194
+Gamma,C,2,2022,Gamma Dome,Retractable,35,90,80,70,5,3,Platinum,80,8,1.2,90.0,97.308,0.9162503496793802,59.1625034967938
