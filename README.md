@@ -109,4 +109,26 @@ Notes
 - If you use the rubric configuration (`config/rubric.json`), ensure it is present in the working directory or pass a path to `calculate_sustainability_scores(..., rubric_path='path/to/rubric.json')`.
 - Colab sessions are ephemeral; mount Drive to keep outputs or download files from the session using `files.download()`.
 
+Running tests in Colab
+----------------------
+
+If your local Python environment has conflicts (e.g., the Anaconda 3.13 parsing bug), you can run the test suite in a clean Colab environment using the included notebook `colab_run_tests.ipynb` or by running the commands below in a Colab cell.
+
+Quick paste (single cell):
+
+```python
+%env MPLBACKEND=Agg
+!git clone https://github.com/YOUR_USERNAME/himcm-graph-models.git repo || true
+%cd repo
+!pip install -q -r requirements.txt
+!pip install -q pytest
+!pytest -q --maxfail=1 | tee pytest_output.txt
+from google.colab import files
+files.download('pytest_output.txt')
+```
+
+Or open `colab_run_tests.ipynb` (included in the repo) via Colab: File → Open notebook → GitHub → paste your repo URL and select `colab_run_tests.ipynb`.
+
+This runs the tests in a fresh environment (no Anaconda/Python 3.13 issues) and saves the pytest output for download.
+
 ````
