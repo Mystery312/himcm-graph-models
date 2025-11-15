@@ -54,6 +54,7 @@ pytest -q
 - `tests/` — pytest unit tests and synthetic validation.
 - `config/rubric.json` — interactive configuration for categorical variable mappings.
 - `docs/RUBRIC.md` — rubric file format documentation.
+- `docs/eval_systems.md` — detailed explanation of the sustainability score evaluation system.
 - `examples/sample_super_bowl.csv` — sample data for testing.
 
 ## Colab (Google Colaboratory)
