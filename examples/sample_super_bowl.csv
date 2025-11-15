@@ -1,0 +1,7 @@
+City,State,Times_Hosted,Last_Hosted_Year,Stadium_Type,Stadium_leed_cert,Avg_Feb_Temp_F,Alltransit_Score,Renewable_Energy_Pct,Waste_Diversion_Pct,Green_Legacy_Projects,Carbon_Offset_Programs,Water_Score,Air_ug_m3,Carbon_Emissions,Waste_Management,Future_Developments
+Inglewood,CA,1,2022,retractable roof,Platinum,60,85,55,65,3,2,75,10,4.2,recycling and composting,planned_green_projects
+Glendale,AZ,1,2015,open-air,Certified,58,70,40,50,2,1,60,12,5.1,recycling only,no_known_plans
+New Orleans,LA,2,2013,open-air,Gold,55,80,30,45,4,2,65,15,6.0,recycling and composting,major_green_investments
+Springfield,IL,0,0,open-air,Gold,40,70,25,35,1,0,60,12,2.5,recycling only,no_known_plans
+River City,TX,0,0,indoor,Silver,35,60,10,20,0,0,50,18,7.0,minimal,no_known_plans
+FutureTown,FL,0,0,dome,None,50,75,80,85,5,3,80,8,1.8,recycling and composting,major_green_investments
