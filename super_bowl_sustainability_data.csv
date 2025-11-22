@@ -1,0 +1,21 @@
+City,Inglewood (LA),Glendale (Pheonix),Las Vegas,New Orleans,Santa Clara,Atlanta,Seattle,Cleveland,Kansas City
+State,California,Arizona ,Nevada,Louisiana,California,Georgia,Washington,Ohio,Missouri
+Times_Hosted,1,3,1,11,2,3,0,0,0
+Last_Hosted_Year,2022,2023,2024,2025,2026,2019,N/A,N/A,N/A
+Stadium_Name,SoFi Stadium,State Farm Stadium,Allegiant Stadium,Caesars Superdome,Levi's Stadium,Mercedes-Benz Stadium,Lumen Field,Huntington Bank Field,Arrowhead Stadium
+Stadium_Type,Dome,Retractable Roof,Dome,Dome,Open,Retractable Roof,open,open,open
+Avg_Feb_Temp_F,59,59.9,53.5,59.4,56,48.5,45.5,38.5,32.5
+Alltransit_Score,8.3,5.1,6.1,7.1,7,7.5,8.3,7.6,4.1
+Renewable_Energy_Pct,43%,N/A,100%,N/A,aim fo 100%,100%,9.90%,7%,10.90%
+Waste_Diversion_Pct,N/A,92.60%,N/A,N/A,N/A,91%,>90%,N/A,50-60%
+Green_Legacy_Projects,12,12,14,3,N/A,14,3,3,2
+Carbon_Offset_Programs,1,2,0,0,N/A,1,N/A,N/A,N/A
+Stadium_leed_cert,Yes (Leed Gold),No,Yes (Leed Gold),No,Yes (Leed Gold),Yes (Leed Platinum),No,No,Yes(Leed Silver)
+enviroment conditions,,,,,,,,,
+energy,27:23,4:21,43:57,1:24,41:59,9:91,9.9:90.1.,7:93..,10.9:89.1.. 
+water,,,,,n/A,,,,
+air(aqi),11(latest data),33(latest data),49(latest data),55(latest data),5(latest data),66(latest data),55(latest data),22,76
+carbon emmisions(metric million tonnes),373,83,39.3(latest data),183.8(latest data),324.3(latest data),136.1,76.3,184.2,101.5
+waste management,California has bills like SB 1383 that diverts 75% of organic waste from landfills. There are facilities that capture landfill gas and converts it to renewable natural gas for heating and cooling.,"Most trash goes to landfills, but there are some recycling facilities.","Most goes to a landfill called Apex Landfill, one of the largest in NA. It also has the largest recycling facility in NA. https://www.youtube.com/watch?v=aHzltu6Tvl8 ",Infastructure for handling toxic waste is lacking in many areas of the city.,Promotes composting and hierarchical disposal of trash. Pretty average/baseline.,Large portion of waste still goes to landfills and its recycling initiatives have a lot of issues.,"On-site MRFi sorting, 95–100% diversion on field projects","
+Food waste sent to anaerobic digester → biogas",Reusable cup system + biodigesters for food waste
+future developements,,,,Has a Net Zero by 2050 climate action,,,Yes – World Cup 2026 zero-waste expansion,Yes – New domed Browns Stadium planned (2029),Yes – Waste & compost upgrades tied to 2026 World Cup
